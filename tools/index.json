@@ -11,6 +11,7 @@
     "openscad-customizer",
     "print-queue",
     "filament-shelf",
-    "notes"
+    "notes",
+    "filament-badge-generator"
   ]
 }

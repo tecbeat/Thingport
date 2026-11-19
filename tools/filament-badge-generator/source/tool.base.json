@@ -1,0 +1,15 @@
+{
+  "name": "Filament badge generator",
+  "description": "Makes a printable filament swatch: brand, material, colour and nozzle temperature on a rounded plate with five thickness steps, built watertight with Manifold. Saves a two-part 3MF whose plate and text carry their own extruder, so a slicer opens it ready to print in two colours.",
+  "version": "1.0.0",
+  "author": "tecbeat",
+  "authorUrl": "https://github.com/tecbeat/Thingport",
+  "window": {
+    "width": 1100,
+    "height": 720
+  },
+  "hosts": [],
+  "category": "generators",
+  "locales": ["en", "de"],
+  "screenshots": []
+}
